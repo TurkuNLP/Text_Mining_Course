@@ -1,0 +1,9 @@
+This directory contains a corpus of Finnish news and Wikipedia
+articles with manually prepared named entity annotation.
+
+The corpus is described in the article "A Finnish News Corpus for
+Named Entity Recognition". The original source of this data is the
+repository https://github.com/mpsilfve/finer-data .
+
+CoNLL-U parses generated using the Turku neural parser pipeline
+(https://turkunlp.org/Turku-neural-parser-pipeline/).
