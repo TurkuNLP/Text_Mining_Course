@@ -1,0 +1,5 @@
+# Download originals from http://www2.aueb.gr/users/ion/data/enron-spam/
+
+for i in `seq 6`; do
+    wget "http://www.aueb.gr/users/ion/data/enron-spam/preprocessed/enron$i.tar.gz"
+done
